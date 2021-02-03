@@ -2,7 +2,7 @@
 A public portfolio of data visualization projects from CMU's Telling Stories with Data class.
 
 # About Me 
-I'm Abby (she/her), and I'm currently pursuing an MA in Professional Writing at CMU. I also completed my BS in Technical Writing at CMU and worked as a technical writer at a cybersecurity/tech company for a few years before coming back to school.
+I'm Abby (she/her), and I'm currently pursuing an MA in Professional Writing at CMU. I also completed my BS in Technical Writing at CMU and worked as a technical writer at a cybersecurity/tech company for a few years before coming back to school. This company mostly was contracted with the U.S. government, and it had quite a few projects coming out of DARPA, so there was some pretty cool stuff going on! 
 
 My main interest is working with engineers and scientists in the technology and hard sciences fields to create documentation and rhetoric that is accessible and exciting for general users and audiences, including those that do not have technical backgrounds. I've always had an interest in sciences as well as writing, and I especially loved the intersection between writing and science. Still, when I first came to CMU, I started out as a physics major rather than a technical writing major, and I believed that outside of textbooks or science news articles, the only way I could write about science was through publications. It was only after a few years that I learned about technical writing and technical communication, and that's when I made the switch over to technical writing. 
 
