@@ -12,7 +12,7 @@ The first visualization I made representing various countries' debt-to-GDP ratio
 
 ## Debt-to-GDP Ratio: Visualization Two 
 
-For the next part of the assignment, we were tasked with visualizing the same data from above in a different way. I chose to compare all countries on the same plot and highlighted North American countries: the United States, Canada, and Mexico. All other countries are grayed out, but their data points can be hovered over to find out what country they blong to. 
+For the next part of the assignment, we were tasked with visualizing the same data from above in a different way. I chose to compare all countries on the same plot and highlighted North American countries: the United States, Canada, and Mexico. All other countries are grayed out, but their data points can be hovered over to find out what country they belong to. 
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/5290241"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
