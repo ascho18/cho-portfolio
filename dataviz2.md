@@ -6,6 +6,10 @@ Below is a chart of various countries' debt-to-GDP ratios during 2014, from the 
 
 ## Debt-to-GDP Ratio: Visualization One 
 
-The first visualization I made representing various countries' debt-to-GDP ratio from 1995 to 2019. For this first visualization, we made a grid of line chats. Now, all countries' debt over time can be seen at once. 
+The first visualization I made representing various countries' debt-to-GDP ratio from 1995 to 2019. For this first visualization, we made a grid of line chats through Flourish. Now, all countries' debt over time can be seen at once. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5283944"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Debt-to-GDP Ratio: Visualization Two 
+
+For the next part of the assignment, we were tasked with visualizing the same data from above in a different way. 
