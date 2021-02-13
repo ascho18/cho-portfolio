@@ -16,6 +16,12 @@ For the next part of the assignment, we were tasked with visualizing the same da
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/5290241"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## Comparing Visualization One and Two 
+
+Both of these visualizations came from the same data set (provided by [the OECD](https://data.oecd.org/gga/general-government-debt.htm)). Both visualizations show the same data: the years (1995-2019), the countries, and each debt-to-GDP ratio from each country. Ultimately, then, both visualizations demonstrate each country's debt-to-GDP ratio per year. 
+
+However, while the information that is shown is essentially the same, the way they are presented creates differences in how the data is interpreted. In the first visualization, each country is shown individually using the same color and styling. Meanwhile, in the second visualization, the U.S., Canada, and Mexico are pointedly highlighted in three different colors and the other countries are grayed out. Further, in the second visualization, all the countries are shown in one graph. Because all the countries are put together on one graph and only three countries are highlighted in color, it is clear that the second visualization is trying to focus on only the highlighted countries, and the grayed out ones are left for context. The first visualization makes no such efforts to highlight any particular country, and because each country is shown in each individual graph, it is difficult to compare many countries to one another. The eye is forced to go between one, two, three, and more graphs back and forth to try and compare lines. It is clear that the first visualization is meant more to simply display the data summarily while the second visualization makes the next step to compare countries and, in particular, highlight a specific region from the data. 
+
 <hr> 
 
 [Return Home](/README.md)
