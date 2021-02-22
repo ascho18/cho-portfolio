@@ -10,7 +10,7 @@ I chose this visualization for a few reasons. First, this topic is personally re
 
 ## Critique and Wireframing 
 
-For the purposes of this assignment, we first critiqued our chosen visualization using Stephen Few's (Data Visualization Effectiveness Profile)[http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf]. My main takeaways using this critique were the following: 
+For the purposes of this assignment, we first critiqued our chosen visualization using Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf). My main takeaways using this critique were the following: 
 
 * The graph was generally effective at showing the comparison of discrimation between US and California 
 * The graph was effective at displaying the most prevalent and least prevalent discriminiations in order, with the most prevalent being at the top and the least being at the bottom. 
