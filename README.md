@@ -14,3 +14,4 @@ I am primarily interested in learning the basics of data visualization so I have
 # Portfolio 
 
 * [Data visualization assignment 2](/dataviz2.md)
+* [Data visualization assignment 4](/dataviz4.md)
