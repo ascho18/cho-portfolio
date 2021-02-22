@@ -21,17 +21,17 @@ Generally, I thought that the graph did well at displaying the overall number of
 
 But were these the only changes that could be made to this visualization? This visualization was a bar chart, and it was effective at comparing two types of data, US and California, but I wondered if a dot plot would be more appropriate to focus exclusively on Californian incidents. I tried reflecting this in a few sketches of a new graph: 
 
-![Wireframes 1]( )
+![Wireframes 1](https://i.imgur.com/5cR39tL.jpg)
 
 It was immediately evident to me that a dot plot might not be a good idea; a lot of the data was clustered below 10%, and there were at 4 data points for California that were approximately 5% or below. Even when I tried to increase the scale, the dots seemed to be close enough that they would be overlapping between two types of discrimination, which in turn might give the impression that two very different types of discrimination might be grouped together because they look like they are associated with a single dot.
 
 After thinking about it for a bit, I thought I might go back to the bar graph model, but completely eliminate the US data and just focus on California's. I hoped that this would fix the scaling issue while maintaining the focus on California. 
 
-![Wireframe 2]( ) 
+![Wireframe 2](https://i.imgur.com/RAgnjVm.jpg) 
 
 ## User Feedback 
 
-I actually have a few Asian-American friends in California, so I sent over my wireframes for their opinions on it (including the dot plots). I asked them what they thought the graphs represented, anything they found confusing, and if there was anything they would change. 
+I actually have a few Asian-American friends in California, so I sent over my wireframes for their opinions on it (including the dot plots). I thought that their perspectives as both Asian-Americans and as California residents would make them perfect users for these graphs. I asked them what they thought the graphs represented, anything they found confusing, and if there was anything they would change. 
 
 Overall, my two friends responded more positively to the bar charts because they felt that the bottom-clustered data points were too hard to parse. However, they did say that the fact that the verbal abuse dot on the dot plot was so high compared to the others was very impactful, and they could tell right away that verbal abuse was by far the most common and prevalent. While the bar chart had a similar effect, both felt that the dot plot showed this difference more dramatically. 
 
@@ -45,11 +45,17 @@ One of my friends said that she felt seeing the individual smaller items was sti
 
 I thought that was incredibly telling, and that after this conversation, perhaps the dot plot wasn't the best choice after all for more reasons than I had thought. I thought too much about the dramatic differences between verbal abuse and the other types of discrimination, while my friend considered the smaller types individually and learned something from them. For her, having these smaller types appearing clearly meant more to her, as she felt that all these experiences should be acknowledged with equal prevalence. So, with that, I already knew I would probably be settling on the bar chart. 
 
-But what did my friends think about the bar chart with the US on it versus the one without? This was actually split between the two of them; one of my friends thought that having the context 
+But what did my friends think about the bar chart with the US on it versus the one without? This was actually split between the two of them; one of my friends thought that having the context against the rest of the US was helpful, while the other one said it wasn't really important to him. I asked him if he thought that having the US data was distracting, and he said it wasn't, he just was not interested in how California measured up to everyone else. For him, he just cared about his own state. 
+
+My other friend disagreed with him. She felt that having comparisons between California and the rest of the US was helpful in showing what areas California specifically should focus. It was clear that Californians suffered more verbual harrasment and physical assault, but slightly less workplace discrimination, so those two areas should be looked at first, from her perspective. I thought that, since having the US context actually spurred my friend to think about next steps and a call to action of sorts, it was appropriate to keep the US data in the graph. I also felt confident in doing this because my second friend said he did not find it distracting even though it was not his primary interest, which signalled to me that my choice in changing the US data bars from orange to gray was probably a good choice. 
 
 ## Final Design 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5360600"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Based on my user feedback and my own critique, I created the graph above. I kept the original blue bars, but changed the orange ones to gray. I also changed the title for more clarity and changed the "CA" label from the legend in the first visualization to "California" in the second. 
+
+Overall, this was a very simple redesign; not very many things changed from the original, which indicates that it was probably a pretty good visualization already! However, what was valuable in this process was actually going to the users and checking for myself what they thought. It was incredibly helpful to bring them wireframes of different visualizations and learn how they felt about the data given their context and perspectives. While there was not much change from the original design to the redesign, the steps in between felt involved and illuminating&mdash;a surprise for the all-too-familiar bar chart.  
 
 <hr>
 
