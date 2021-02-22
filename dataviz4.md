@@ -10,3 +10,6 @@ I chose this visualization for a few reasons. First, this topic is personally re
 
 ## Critique and Redesign Process 
 
+<hr>
+
+[Return Home](https://ascho18.github.io/cho-portfolio/) 
