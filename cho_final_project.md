@@ -28,4 +28,4 @@ I am also considering using some of the personal stories starting on page 9 for 
 
 To complete this project, I'll be following the laid out suggestions we've been practicing in class. I will be sketching and wireframing potential visualizations for the project and reaching out to friends for user testing. For the purposes of this project, I'm hoping to get in contact with both friends who are part of the AAPI community and are not to ensure I have a variety of feedback. Ideally, I would also like to reach out to my older relatives, since it was partially because of them that I was inspired to look at this subject. 
 
-For my data visualizations, I plan on using either Tableau, Flourish, or a combination of both as needed. At the moment, the data 
+For my data visualizations, I plan on using either Tableau, Flourish, or a combination of both as needed. At the moment, the data is fairly straightforward; for the polling data, I can pull directly from their results, and for the hate report, I can calculate numerical values myself to put into whatever program I use. 
