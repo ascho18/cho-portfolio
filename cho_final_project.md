@@ -8,7 +8,7 @@ For my project, I hope to cover the anti-Asian-American sentiment that's risen i
 
 ### New Center for Public Integrity/Ipsos Poll finds most Americans say the Coronavirus Pandemic is a Natural Disaster 
 
-This data set is a poll conducted by the New Center for Public Integrity that asked idnividuals if they believed if COVID-19 is a natural disaster or an event that a group/organization is responsible for. If they responded the latter, then were then asked if they believed China or Asians were responsible for the pandemic. All individuals were asked questions on if they would feel uncomfortable if someone of Asian descent approached them during the pandemic. This poll demonstrates that there is some anti-AAPI sentiment that exists in the American public. 
+This data set is a poll conducted by the New Center for Public Integrity from April, 2020. The poll asked idnividuals if they believed if COVID-19 is a natural disaster or an event that a group/organization is responsible for. If they responded the latter, then were then asked if they believed China or Asians were responsible for the pandemic. All individuals were asked questions on if they would feel uncomfortable if someone of Asian descent approached them during the pandemic. This poll demonstrates that there is some anti-AAPI sentiment that exists in the American public. 
 
 The article that the dataset was found from can be found [here](https://www.ipsos.com/en-us/news-polls/center-for-public-integrity-poll-2020). The dataset can be found [here](https://www.ipsos.com/sites/default/files/ct/news/documents/2020-04/topline-center-for-public-integrity-042820.pdf). 
 
@@ -16,7 +16,11 @@ I plan on using the results of the poll, including the number of participants an
 
 ### Stop AAPI Hate National Report 
 
-This data set 
+This data set is a report from August, 2020. Stop AAPI Hate is an organization that was made in response to the increased rate of hate crimes against the AAPI community during the pandemic. Stop AAPI Hate encouraged AAPIs to report any hate crimes that were done against them to their org so they could document and release the rates. This national report covers all the reports they received from March, 2020 to August, 2020. 
+
+Stop AAAPI Hate's official page can be found [here](https://stopaapihate.org/). Their national report can be found [here](https://secureservercdn.net/104.238.69.231/a1w.90d.myftpupload.com/wp-content/uploads/2020/10/Stop_AAPI_Hate_National_Report_200805.pdf). 
+
+
 
 ## Method and Medium 
 
