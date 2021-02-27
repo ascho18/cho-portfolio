@@ -20,7 +20,7 @@ A poll was conducted by the Pew Research Center for Social and Demographic Trend
 
 The article can be found [here](https://www.pewresearch.org/social-trends/2020/07/01/many-black-and-asian-americans-say-they-have-experienced-discrimination-amid-the-covid-19-outbreak/). 
 
-Of course, for the purposes of this project, I will be pulling numbers exclusively for the AAPI community from this article. 
+Of course, for the purposes of this project, I will be pulling numbers exclusively for the AAPI community from this article. As far as I can tell, they have not released their raw dataset, but I believe I will be able to put together some numbers based on their visualizations. 
 
 ### Stop AAPI Hate National Report 
 
