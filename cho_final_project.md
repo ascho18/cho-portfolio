@@ -22,10 +22,12 @@ Stop AAAPI Hate's official page can be found [here](https://stopaapihate.org/). 
 
 I plan on using the reported hate crimes from this report to show that hate crimes are happening, and they have been happening in relation to the coronavirus (especially the "coughed/spat on" metric, which seems to be a pointedly COVID-related offense). The report itself actually has mostly basic visualizations and percent values for their metrics. However, the report does note that the total number of reports are 2583 in the inital summary, so while I will not be able to directly pull data from every metric, I'll be able to calculate the actual numbers based on the percentages and totals so I can manipulate the data myself. 
 
-I am also considering using some of the personal stories starting on page 9 for the purposes of the story, such as using some quotes for effect, but naturally I will not be using the quotes in any sort of data visualization. 
-
 ## Method and Medium 
 
 To complete this project, I'll be following the laid out suggestions we've been practicing in class. I will be sketching and wireframing potential visualizations for the project and reaching out to friends for user testing. For the purposes of this project, I'm hoping to get in contact with both friends who are part of the AAPI community and are not to ensure I have a variety of feedback. Ideally, I would also like to reach out to my older relatives, since it was partially because of them that I was inspired to look at this subject. 
 
 For my data visualizations, I plan on using either Tableau, Flourish, or a combination of both as needed. At the moment, the data is fairly straightforward; for the polling data, I can pull directly from their results, and for the hate report, I can calculate numerical values myself to put into whatever program I use. 
+
+In order to put together the story for my final project, I plan on using Shorthand. Based on the demonstrations in class, Shorthand seems like a fairly straightfoward and effective medium to put together my project. I do not anticipate I will be using any physical or immersive materials for the purposes of this project. 
+
+In addition to using the data from the hate report, I am also considering using some of the personal stories starting on page 9 for the purposes of the story, such as using some quotes for effect. I believe having these personal recollections in combination with the data would create a more persuasive story and project, connecting the data with personal experiences and others that we can relate to. Of course, I do not anticipate I will be documenting the quotations in data visualizations, but they may appear as accents in the story timeline. 
