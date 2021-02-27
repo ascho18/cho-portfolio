@@ -7,3 +7,5 @@ For my project, I hope to cover the anti-Asian-American sentiment that's risen i
 ## The data 
 
 ## Method and Medium 
+
+To create the data visualizations, I plan on using either Tableau or Flourish&mdash;or some combination of both, if it turns out that way. 
