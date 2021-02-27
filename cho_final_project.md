@@ -20,7 +20,9 @@ This data set is a report from August, 2020. Stop AAPI Hate is an organization t
 
 Stop AAAPI Hate's official page can be found [here](https://stopaapihate.org/). Their national report can be found [here](https://secureservercdn.net/104.238.69.231/a1w.90d.myftpupload.com/wp-content/uploads/2020/10/Stop_AAPI_Hate_National_Report_200805.pdf). 
 
+I plan on using the reported hate crimes from this report to show that hate crimes are happening, and they have been happening in relation to the coronavirus (especially the "coughed/spat on" metric, which seems to be a pointedly COVID-related offense). The report itself actually has mostly basic visualizations and percent values for their metrics. However, the report does note that the total number of reports are 2583 in the inital summary, so while I will not be able to directly pull data from every metric, I'll be able to calculate the actual numbers based on the percentages and totals so I can manipulate the data myself. 
 
+I am also considering using some of the personal stories starting on page 9 for the purposes of the story, such as using some quotes for effect, but naturally I will not be using the quotes in any sort of data visualization. 
 
 ## Method and Medium 
 
