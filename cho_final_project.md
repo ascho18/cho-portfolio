@@ -14,6 +14,14 @@ The article that the dataset was found from can be found [here](https://www.ipso
 
 I plan on using the results of the poll, including the number of participants and the number of responses to a variety of the questions, to demonstrate that there is anti-AAPI sentiment and that the hate crimes against the AAPI community aren't coming from nowhere, and in fact, they are being fueled by the coronavirus. I do not believe I will be differentiating between Democrats and Republicans, however, since political affiliation isn't particularly relevant to what I'm exploring. 
 
+### Many Black and Asian Americans Say They Have Experienced Discrimination Amid the COVID-19 Outbreak
+
+A poll was conducted by the Pew Research Center for Social and Demographic Trends that asked if Asians and Black Americans believed they experienced more discrimination after the pandemic. This data is interesting because it documents whether or not these groups felt they were discriminated against more after as well as *before* the pandemic, which I believe could be an interesting statistic to support the idea that there has been an increase in discrimination since COVID-19 arrived in the US. I'm still debating on using this dataset, as I'm not sure if the Ipsos poll might be enough to support the idea that discrimination has increased since COVID-19 began, but I'm including it here for completion. 
+
+The article can be found [here](https://www.pewresearch.org/social-trends/2020/07/01/many-black-and-asian-americans-say-they-have-experienced-discrimination-amid-the-covid-19-outbreak/). 
+
+Of course, for the purposes of this project, I will be pulling numbers exclusively for the AAPI community from this article. 
+
 ### Stop AAPI Hate National Report 
 
 This data set is a report from August, 2020. Stop AAPI Hate is an organization that was made in response to the increased rate of hate crimes against the AAPI community during the pandemic. Stop AAPI Hate encouraged AAPIs to report any hate crimes that were done against them to their org so they could document and release the rates. This national report covers all the reports they received from March, 2020 to August, 2020. 
