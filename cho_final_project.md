@@ -6,6 +6,14 @@ I am imagining structuring my project as the following: first, by connecting to 
 
 ## Initial Sketches 
 
+For my sketches, I wanted to think about how to portray that (1) the discrimination against AAPI has increased since the start of COVID-19 and (2) shed light on the types of discrimination that are happening and to whom it is mostly happening to. I definitely want to use something with dots or people imagery to relate it back to how these acts are being done upon fellow human beings for greater impact. 
+
+![sketch 1](https://i.imgur.com/OulcbOk.jpg)
+
+![sketch 2](https://i.imgur.com/1f6CHZY.jpg) 
+
+![sketch 3](https://i.imgur.com/buKjjCM.jpg) 
+
 ## The data 
 
 ### New Center for Public Integrity/Ipsos Poll finds most Americans say the Coronavirus Pandemic is a Natural Disaster 
