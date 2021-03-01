@@ -53,5 +53,7 @@ I hope to use the data I've gathered to demonstrate that discrimination is prese
 In addition to using the data from the hate report, I am also considering using some of the personal stories starting on page 9 for the purposes of the story, such as using some quotes for effect. I believe having these personal recollections in combination with the data would create a more persuasive story and project, connecting the data with personal experiences and others that we can relate to. Of course, I do not anticipate I will be documenting the quotations in data visualizations, but they may appear as accents in the story timeline. 
 
 For the final presentation, I believe I'm going to simply present my Shorthand page to the class while summarizing my findings and personal connection to the topic. At the moment, I am not planning on creating additional materials for the final presentation. 
+
 <hr> 
+
 [Return Home](/README.md)
