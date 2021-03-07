@@ -15,4 +15,4 @@ I am primarily interested in learning the basics of data visualization so I have
 
 * [Data visualization assignment 2](/dataviz2.md)
 * [Data visualization assignment 4](/dataviz4.md)
-* [Data visualization final project](/cho_final_project.md)
+* [Data visualization final project: Part 1](/cho_final_project_part1.md)
