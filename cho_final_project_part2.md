@@ -20,7 +20,9 @@ Because of my broad scope of an audience, I tried to reach out to peers that wer
 
 | Goal     | Question | 
 | ---------|----------|
-| Test goal here | Question here |
+| Evaluate Story | * Do people unfamiliar with AAPI discrimination learn that it is happening during COVID-19?
+* Do people feel moved to get more involved or informed? 
+* Do people feel informed about what they can do to get involved? |
 
 ### The Script 
 
