@@ -24,6 +24,12 @@ Because of my broad scope of an audience, I tried to reach out to peers that wer
 | What is confusing, if anything? | | 
 | Prioritize what to fix | What problems are most severe? | 
 
+#### Metrics 
+
+* Whether participants understand the types of discrimination and severity of discrimination of the AAPI community since COVID-19 
+* Whether participants feel moved to get involved or become more informed 
+* Whether participants understand how to get involved or to get more information 
+
 ### The Script 
 
 #### Introduction 
