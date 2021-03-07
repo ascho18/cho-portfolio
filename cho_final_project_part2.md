@@ -16,7 +16,11 @@ Because of my broad scope of an audience, I tried to reach out to peers that wer
 
 ### The Research Method 
 
+#### Goals/Questions 
 
+| Goal     | Question | 
+| ---------|----------|
+| Test goal here | Question here |
 
 ### The Script 
 
