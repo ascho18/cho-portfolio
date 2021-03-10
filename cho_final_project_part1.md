@@ -56,4 +56,6 @@ For the final presentation, I believe I'm going to simply present my Shorthand p
 
 <hr> 
 
+[Part Two](/cho_final_project_part2.md)
+[Part Three](/cho_final_project_part3.md)
 [Return Home](/README.md)
