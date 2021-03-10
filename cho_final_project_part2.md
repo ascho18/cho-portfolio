@@ -1,6 +1,6 @@
 ## Wireframes and Storyboards 
 
-## Moodboards 
+For wireframing and storyboarding, I made a [rough draft](https://preview.shorthand.com/sTWXaHMSXwBs0GSn) of my final project in Shorthand. I focused on getting the overall story put together and get the visualizations down. There were some spaces that had not been totally written out yet, but as it is, this version is the one that I showed my users for research. 
 
 ## User Research and Interviews 
 
@@ -65,4 +65,32 @@ As they walk through the story, ask follow-up questions as necessary, let the pa
 
 ### Findings 
 
+**User One** 
+
+User one was outside of the AAPI community and was in his 20s. Overall, user one's feedback was quite positive. He liked the font choices and color, and he felt that the data visualizations were appropriate and easy for him to read. He thought the story was easy to follow, where the story was presenting data to back up the claim, then moved on to a call to action at the end. From the beginning, he said he was aware that this would be about AAPI discrimination from the title and introduction. He also assumed it would probably talk about what can be done to stop it, so he was expecting the call to action at the end. He had some trouble differentiating between links and simply bolded text since they were the same color, however. 
+
+**User Two** 
+
+User two was a member of the AAPI community and was in her 40s. She liked the writing, but said she was confused about the overall message. It wasn't clear to her from the beginning what the purpose of this story was: was it to educate, or to tell people how to help? When she was reading through the data, she thought that it was just meant to educate people on what was going on with AAPI discrimination, but when she got to the call to action, she thought that the purpose was to get people to help instead. 
+
+User two also found the changing pie charts with the scrollmation feature in Shorthand to be too subtle. She almost didn't see the charts change into a second one while she was finished with the corresponding paragraphs and made to scroll to the next section. She also completely missed the next scrollmation section with the visualizations using people.
+
+User two also did not know what "AAPI" meant and wondered what it meant when reading the title card. 
+
+Overall, user two said once she got to the end, she understood the purpose of the page, and she thought the writing and graphs overall were helpful. She just wanted to know the purpose earlier on in her reading experience. 
+
+**User Three** 
+
+User three was part of the AAPI community and was in his 20s. Overall, user three thought that the story was very informative and straightforward. He did not have trouble following the storyline nor reading any of the visualizations. He felt the visualizations were helpful overall. However, he did have some comments on them: on the pie charts, he wondered if there should be percent values in the sections since the title had percentages in it, and on the chart with gender distribution, it was not immediately obvious to him which color was female and which color was male. 
+
+In addition, user three expressed that he felt like there was some overlap feeling between the red bolded text and the red underlined links and thought that styling was a little confusing. 
+
 ### Implemented Changes 
+
+Based on user feedback, I'll be making the following changes to the final draft: 
+
+* Defining AAPI somewhere earlier, probably on the title card. It's later defined in the next "slide", the introduction, but for people unfamiliar with it, it should be spelled out early. 
+* Breaking out the visualizations from the scrollmation feature on Shorthand and just displaying the visualizations statically on the page. Ensuring the users see the data is more important than making things fancy! 
+* Try and adjust language in the beginning, such as the intro, to give a better roadmap of what the story will be about: raising *both* awareness and how to help. 
+* Adding a legend to the gender distribution visualization to make it clear which color corresponds to which gender 
+* Adjusting the styling between links and bold-emphasized text. Might just need to make the bold text black instead of red. 
