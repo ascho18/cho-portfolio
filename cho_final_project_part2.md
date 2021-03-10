@@ -94,3 +94,7 @@ Based on user feedback, I'll be making the following changes to the final draft:
 * Try and adjust language in the beginning, such as the intro, to give a better roadmap of what the story will be about: raising *both* awareness and how to help. 
 * Adding a legend to the gender distribution visualization to make it clear which color corresponds to which gender 
 * Adjusting the styling between links and bold-emphasized text. Might just need to make the bold text black instead of red. 
+
+<hr> 
+
+[Return Home](https://ascho18.github.io/cho-portfolio/) 
