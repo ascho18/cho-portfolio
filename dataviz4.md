@@ -12,8 +12,8 @@ I chose this visualization for a few reasons. First, this topic is personally re
 
 For the purposes of this assignment, we first critiqued our chosen visualization using Stephen Few's [Data Visualization Effectiveness Profile](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf). My main takeaways using this critique were the following: 
 
-* The graph was generally effective at showing the comparison of discrimation between US and California 
-* The graph was effective at displaying the most prevalent and least prevalent discriminiations in order, with the most prevalent being at the top and the least being at the bottom. 
+* The graph was generally effective at showing the comparison of discrimination between US and California 
+* The graph was effective at displaying the most prevalent and least prevalent discriminations in order, with the most prevalent being at the top and the least being at the bottom. 
 * The choice to use orange for the US incidents drew the eye too much, especially considering the intended audience is probably more interested in California's incidents 
 * The title for the graph can be misleading, because it does not specify that these are only reported incidents to the Stop AAPI hate organization (versus a gross estimate) 
 
@@ -39,7 +39,7 @@ From the first bar graph, which kept the comparison between US and California, b
 
 My other friend was actually confused on what "CA" meant from the key. She actually thought that it meant "Canada" because the other label said "US"; she thought this was a comparison between countries, not a country and a state. Again, I didn't notice this because I already knew from context that this was from a report specifically on California. I knew I had to clarify that in the final design. 
 
-Overall, both of my friends felt the bar graphs displayed the less prevalent discimination types better than the dot graphs. I asked them if they felt that it was important that these smaller items were shown individually like in the bar graph. The emphasis on the dot plot on the verbal abuse was striking, after all&mdash;more than the bar chart, according to both of them. 
+Overall, both of my friends felt the bar graphs displayed the less prevalent discrimination types better than the dot graphs. I asked them if they felt that it was important that these smaller items were shown individually like in the bar graph. The emphasis on the dot plot on the verbal abuse was striking, after all&mdash;more than the bar chart, according to both of them. 
 
 One of my friends said that she felt seeing the individual smaller items was still important: "They're not as common, but they're still happening". My friend said that while it was clear verbal abuse was the most prevalent form of discrimination, clustering all the smaller ones at the bottom seemed almost dismissive; it felt as if some of these incidents were disappearing from focus, even though all these discriminatory experiences should be acknowledged. She added that she didn't even know there were people being barred from establishments or transportation, for example, and she felt like she saw those instances more clearly in the bar graphs than she did in the dot plot. 
 
@@ -47,7 +47,7 @@ I thought that was incredibly telling, and that after this conversation, perhaps
 
 But what did my friends think about the bar chart with the US on it versus the one without? This was actually split between the two of them; one of my friends thought that having the context against the rest of the US was helpful, while the other one said it wasn't really important to him. I asked him if he thought that having the US data was distracting, and he said it wasn't, he just was not interested in how California measured up to everyone else. For him, he just cared about his own state. 
 
-My other friend disagreed with him. She felt that having comparisons between California and the rest of the US was helpful in showing what areas California specifically should focus. It was clear that Californians suffered more verbual harrasment and physical assault, but slightly less workplace discrimination, so those two areas should be looked at first, from her perspective. I thought that, since having the US context actually spurred my friend to think about next steps and a call to action of sorts, it was appropriate to keep the US data in the graph. I also felt confident in doing this because my second friend said he did not find it distracting even though it was not his primary interest, which signalled to me that my choice in changing the US data bars from orange to gray was probably a good choice. 
+My other friend disagreed with him. She felt that having comparisons between California and the rest of the US was helpful in showing what areas California specifically should focus. It was clear that Californians suffered more verbal harassment and physical assault, but slightly less workplace discrimination, so those two areas should be looked at first, from her perspective. I thought that, since having the US context actually spurred my friend to think about next steps and a call to action of sorts, it was appropriate to keep the US data in the graph. I also felt confident in doing this because my second friend said he did not find it distracting even though it was not his primary interest, which signaled to me that my choice in changing the US data bars from orange to gray was probably a good choice. 
 
 ## Final Design 
 
