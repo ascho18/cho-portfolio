@@ -118,5 +118,7 @@ Based on user feedback, I'll be making the following changes to the final draft:
 <hr> 
 
 [Part One](/cho_final_project_part1.md)
+
 [Part Three](/cho_final_project_part3.md)
+
 [Return Home](https://ascho18.github.io/cho-portfolio/) 
