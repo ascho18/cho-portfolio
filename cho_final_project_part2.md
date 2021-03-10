@@ -1,6 +1,6 @@
 ## Wireframes and Storyboards 
 
-For wireframing and storyboarding, I made a [rough draft](https://preview.shorthand.com/sTWXaHMSXwBs0GSn) of my final project in Shorthand. I focused on getting the overall story put together and get the visualizations down. There were some spaces that had not been totally written out yet, but as it is, this version is the one that I showed my users for research. 
+For wireframing and storyboarding, I made a [rough draft](https://preview.shorthand.com/sTWXaHMSXwBs0GSn_) of my final project in Shorthand. I focused on getting the overall story put together and get the visualizations down. There were some spaces that had not been totally written out yet, but as it is, this version is the one that I showed my users for research. 
 
 ## User Research and Interviews 
 
