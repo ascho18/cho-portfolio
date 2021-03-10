@@ -85,7 +85,21 @@ User three was part of the AAPI community and was in his 20s. Overall, user thre
 
 In addition, user three expressed that he felt like there was some overlap feeling between the red bolded text and the red underlined links and thought that styling was a little confusing. 
 
-### Implemented Changes 
+## Class Feedback 
+
+In addition to users, I also received feedback on my rough draft from my classmates. Generally, they thought the story was solid and understandable. However, they did have a few comments on some of the details in the presentation. 
+
+**Charts** 
+My classmates thought that the charts were generally helpful, but there were things they would improve. For the unit charts showing distributions of types of discrimination, it was not clear to them that some forms of discrimination were overlapping, and the way that they were currently presented gave the impression that all these experiences were exclusive. They recommended simply coloring each "unit" from the top left instead of starting different types of discrimination from the middle of the graphic. 
+
+For the affected genders chart, my classmates were confused at seeing the red color used for women since the red color was used for general populations previously. They recommended changing the color for women to anothe color for clarity. 
+
+Finally, my classmates wondered if it would be effective to use another unit chart instead of a treemap for distribution of ethnicities for sake of consistency. 
+
+**Other**
+My classmates commented that the red on black was a little harsh, and wondered if the color could be changed to something less strong. They also thought there should be a disclaimer somewhere that the reported genders, ethnicities, and types of discrimination was self-reported data. Finally, one of my classmates commented that using "AAPI", or "Asian-American and Pacific Islander", may be exclusionary to Asians that are not American but are still suffering discrimination in America. 
+
+## Implemented Changes 
 
 Based on user feedback, I'll be making the following changes to the final draft: 
 
@@ -95,7 +109,14 @@ Based on user feedback, I'll be making the following changes to the final draft:
 * Adding a legend to the gender distribution visualization to make it clear which color corresponds to which gender 
 * Adjusting the styling between links and bold-emphasized text. Might just need to make the bold text black instead of red. 
 * Adding in percentages in the pie chart sections. User three thought that he wanted percentages to replace the numbers completely, but I think I want to preserve the numerical values because I think they could be interesting to other audiences. 
+* Slightly change the language to include "Asians" rather than just "Asian-Americans" 
+* Play around with using a darker red color against darker backgrounds (and reflecting that change in the rest of the visualizations) 
+* Look at making the treemap for ethnicities into a unit chart as well 
+* Add disclaimers about data being self-reported 
+* Editing the unit charts about types of discrimination to begin the counts all at the top left 
 
 <hr> 
 
+[Part One](/cho_final_project_part1.md)
+[Part Three](/cho_final_project_part3.md)
 [Return Home](https://ascho18.github.io/cho-portfolio/) 
